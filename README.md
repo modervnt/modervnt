@@ -44,10 +44,10 @@
 
 ## 📮 Contact
 📧 **Email :** [noukoussimoderant01@gmail.com](mailto:noukoussimoderant01@gmail.com)  
-📱 **Telegram :** [@votre_pseudo](https://t.me/modervnt)
+📱 **Telegram :** [@modervnt](https://t.me/modervnt)
 
 *"Do not hesitate to contact me for interesting collaborations or simply to discuss tech projects !"*
 
 ---
 
-⭐ **Did u know that ?** "I've written my first code a 17years in C 👨🏽‍🎨"
+⭐ **Did u know that ?** "I've written my first code at 17years in C 👨🏽‍🎨"
